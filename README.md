@@ -1,6 +1,7 @@
+TRANSPARENT QURAN IMAGES:
 https://holy-quran-images.herokuapp.com/{{pageNumber}}.png
 
-EXAMPLE:
+EXAMPLES:
 https://holy-quran-images.herokuapp.com/1.png
 
 https://holy-quran-images.herokuapp.com/50.png
