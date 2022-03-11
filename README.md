@@ -1,4 +1,6 @@
-https://dhikr.herokuapp.com/audio/fileName.mp3
+https://holy-quran-images.herokuapp.com/{{pageNumber}}.png
 
 EXAMPLE:
-https://dhikr.herokuapp.com/audio/afve.mp3
+https://holy-quran-images.herokuapp.com/1.png
+https://holy-quran-images.herokuapp.com/50.png
+https://holy-quran-images.herokuapp.com/564.png
